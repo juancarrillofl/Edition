@@ -1,6 +1,37 @@
 # Edition
 
-The newsletter theme for [Ghost](http://github.com/tryghost/ghost/). This is the latest development version of Edition! If you're just looking to download the latest release, head over to the [releases](https://github.com/TryGhost/Edition/releases) page.
+A bootstrapped theme from the newsletter theme for [Ghost](https://github.com/TryGhost/Edition). This version was modified for my personal needs, but it could help you too because of some problems that I encountered (maybe I should do a Pull Request with some fixes later on the original repo, who knows).
+
+&nbsp;
+
+# Major Changes
+
+* Add major social media icons as partials for personal use, based on SVG Graphics that I encountered on the Web (this list can change overtime). These partials are:
+
+    * GitHub
+    * GitLab
+    * Instagram
+    * Linkedin
+    * YouTube
+    * Twitch
+    * Pinterest
+    * TikTok
+    * Dribbble
+    * Codepen
+
+* Force expanded content view for the home page and tagged content. Ignores giving the user the option to switch.
+
+* Change secondary text color to a darker tone *(#666)* for better accessibility. This text is used in sections like the secondary navigation bar on the footer. **(Important)**.
+
+* Add an aria-label to cover-arrow item for better accessibility.
+
+* Increment menu-item and copyright font size and font weight for better accessibility/SEO.
+
+* Add my name on the footer instead of Ghost for better branding **(if you are going to use this bootstrapped theme, remember to change this too!)**
+
+* Hard code my GitHub and Linkedin using partials mentioned above to show on the header and footer of my website. If you know of a better way to do this, please let me know! **(Also, if you are going to use this bootstrapped theme, remember to change this too, again!)**
+
+Everything else stays the same on the theme and other major changes on my website are made directly on Ghost CMS.
 
 &nbsp;
 
