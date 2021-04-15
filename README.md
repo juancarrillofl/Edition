@@ -31,6 +31,8 @@ A bootstrapped theme from the newsletter theme for [Ghost](https://github.com/Tr
 
 * Hard code my GitHub and Linkedin using partials mentioned above to show on the header and footer of my website. If you know of a better way to do this, please let me know! **(Also, if you are going to use this bootstrapped theme, remember to change this too, again!)**
 
+* Change login button to subscribe button by default.
+
 Everything else stays the same on the theme and other major changes on my website are made directly on Ghost CMS.
 
 &nbsp;
