@@ -2,9 +2,7 @@
 
 A bootstrapped theme from the newsletter theme for [Ghost](https://github.com/TryGhost/Edition). This version was modified for my personal needs, but it could help you too because of some problems that I encountered (maybe I should do a Pull Request with some fixes later on the original repo, who knows).
 
-&nbsp;
-
-# Major Changes
+## Major Changes
 
 * Add major social media icons as partials for personal use, based on SVG Graphics that I encountered on the Web (this list can change overtime). These partials are:
 
@@ -39,9 +37,7 @@ A bootstrapped theme from the newsletter theme for [Ghost](https://github.com/Tr
 
 Everything else stays the same on the theme and other major changes on my website are made directly on Ghost CMS.
 
-&nbsp;
-
-# Development
+## Development
 
 Edition styles are compiled using Gulp/PostCSS to polyfill future CSS spec. You'll need [Node](https://nodejs.org/), [Yarn](https://yarnpkg.com/) and [Gulp](https://gulpjs.com) installed globally. After that, from the theme's root directory:
 
@@ -62,10 +58,10 @@ The `zip` Gulp task packages the theme files into `dist/<theme-name>.zip`, which
 yarn zip
 ```
 
-# PostCSS Features Used
+## PostCSS Features Used
 
 - Autoprefixer - Don't worry about writing browser prefixes of any kind, it's all done automatically with support for the latest 2 major versions of every browser.
 
-# Copyright & License
+## Copyright & License
 
 Copyright (c) 2013-2021 Ghost Foundation - Released under the [MIT license](LICENSE).
