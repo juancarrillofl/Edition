@@ -33,6 +33,10 @@ A bootstrapped theme from the newsletter theme for [Ghost](https://github.com/Tr
 
 * Change login button to subscribe button by default.
 
+* Feature image on tags (or categories, however you called them) is now an horizontal image by default like in the [Dawn Theme](https://github.com/TryGhost/Dawn)
+
+* Suggest other tags on the top of tag pages, like in the Dawn Theme.
+
 Everything else stays the same on the theme and other major changes on my website are made directly on Ghost CMS.
 
 &nbsp;
