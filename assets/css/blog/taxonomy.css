@@ -8,3 +8,21 @@
     width: 90px;
     border-radius: 50%;
 }
+
+.tag-list {
+    margin-top: 2rem;
+    font-weight: 700;
+}
+
+.tag-list-label {
+    margin-right: 0.5rem;
+    color: var(--secondary-text-color);
+}
+
+.tag-list-item::before {
+    content: "#";
+}
+
+.tag-list-item + .tag-list-item {
+    margin-left: 0.3rem;
+}
