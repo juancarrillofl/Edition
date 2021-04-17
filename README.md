@@ -35,6 +35,8 @@ A bootstrapped theme from the newsletter theme for [Ghost](https://github.com/Tr
 
 * Suggest other tags on the top of tag pages, like in the Dawn Theme.
 
+* Classify post more simply, without using "tag" on the `routes.yaml` file. To have a cleaner url.
+
 Everything else stays the same on the theme and other major changes on my website are made directly on Ghost CMS.
 
 ## Development
