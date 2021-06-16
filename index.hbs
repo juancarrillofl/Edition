@@ -4,6 +4,12 @@ into the {body} of the default.hbs template --}}
 
 <div class="content-area">
     <main class="site-main">
+        <header class="feed-header container medium">
+            <div class="feed-header-wrapper">
+                <h2 class="feed-header-title">Latest</h2>
+            </div>
+        </header>
+
         <div class="post-feed expanded container medium">
             {{^unless @member}}
                 {{#foreach posts}}
