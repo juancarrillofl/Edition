@@ -64,6 +64,7 @@
 
 .site-header .menu-item {
     font-weight: 700;
+    font-size: 1.8rem;
 }
 
 .site-header .menu-item + .menu-item {
@@ -125,7 +126,7 @@
     display: block;
     padding: 0.7rem 1.5rem;
     color: var(--white-color);
-    font-size: 1.3rem;
+    font-size: 1.8rem;
 }
 
 .sub-menu .menu-item + .menu-item {
