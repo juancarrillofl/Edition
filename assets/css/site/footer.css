@@ -16,7 +16,7 @@
 }
 
 .copyright {
-    font-size: 1.4rem;
+    font-size: 1.6rem;
 }
 
 .footer-nav {
@@ -31,7 +31,7 @@
     align-items: center;
     margin: 0;
     color: var(--secondary-text-color);
-    font-size: 1.4rem;
+    font-size: 1.6rem;
     font-weight: 500;
 }
 
@@ -66,14 +66,14 @@
 }
 
 .social-item .icon {
-    width: 20px;
-    height: 20px;
+    width: 24px;
+    height: 24px;
     fill: currentColor;
 }
 
 .social-item-rss .icon {
-    width: 15px;
-    height: 15px;
+    width: 24px;
+    height: 24px;
 }
 
 @media (max-width: 767px) {
