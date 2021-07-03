@@ -37,6 +37,8 @@ A bootstrapped theme from the newsletter theme for [Ghost](https://github.com/Tr
 
 * Classify post more simply, without using "tag" on the `routes.yaml` file. To have a cleaner url. **(REMEMBER: you have to upload the routes.yaml manually on your instance or modify it directly on that same instance. This file does not change when you make an update on your repository!)**
 
+* Add a custom page with form for contact page.
+
 Everything else stays the same on the theme and other major changes on my website are made directly on Ghost CMS.
 
 ## Development
