@@ -39,6 +39,8 @@ A bootstrapped theme from the newsletter theme for [Ghost](https://github.com/Tr
 
 * Add a custom page with form for contact page.
 
+* Get rid of email box for the newsletter on the frontpage and the subscribe button on header for now. 
+
 Everything else stays the same on the theme and other major changes on my website are made directly on Ghost CMS.
 
 ## Development
